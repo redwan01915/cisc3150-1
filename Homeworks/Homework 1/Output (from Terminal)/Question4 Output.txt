@@ -1,0 +1,13 @@
+Shalvas-MacBook-Air:bin shalva$ java InOut <input.txt
+10
+12
+34
+247
+274
+938
+28924
+884
+722
+13
+18
+Shalvas-MacBook-Air:bin shalva$ 

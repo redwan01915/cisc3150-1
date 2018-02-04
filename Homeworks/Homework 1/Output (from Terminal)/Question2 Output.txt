@@ -1,0 +1,23 @@
+Last login: Sun Feb  4 04:30:57 on ttys000
+Shalvas-MacBook-Air:~ shalva$ cd /Users/shalva/Documents/workspace/CircleArea/bin 
+Shalvas-MacBook-Air:bin shalva$ java CircleArea
+Enter the radius, separated by space: 3 6 9 4.5
+Area of the circle is with the radius of 3.0 is: 28.27431
+Area of the circle is with the radius of 6.0 is: 113.09724
+Area of the circle is with the radius of 9.0 is: 254.46878999999998
+Area of the circle is with the radius of 4.5 is: 63.617197499999996
+Shalvas-MacBook-Air:bin shalva$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

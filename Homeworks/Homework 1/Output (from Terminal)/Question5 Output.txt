@@ -1,0 +1,15 @@
+Shalvas-MacBook-Air:bin shalva$ java RealTriangle
+Enter three points: 3.2 5 6 10 8.5 9
+It is a real triangle
+Shalvas-MacBook-Air:bin shalva$ java RealTriangle
+Enter three points: 6 3 5 5 10 10
+It is a real triangle
+Shalvas-MacBook-Air:bin shalva$ 
+
+
+
+
+
+
+
+

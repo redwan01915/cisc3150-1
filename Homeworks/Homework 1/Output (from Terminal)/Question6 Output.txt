@@ -1,0 +1,21 @@
+Shalvas-MacBook-Air:bin shalva$ java DetermineCircles
+Type center coordinates and then the radius of the first circle: 6 6 3
+Type center coordinates and then the radius of the second circle: 0 10 3
+Circles are separate.
+Shalvas-MacBook-Air:bin shalva$ java DetermineCircles
+Type center coordinates and then the radius of the first circle: 2 0 4
+Type center coordinates and then the radius of the second circle: 2 0 2
+Circle 2 is inside Circle 1.
+Shalvas-MacBook-Air:bin shalva$ java DetermineCircles
+Type center coordinates and then the radius of the first circle: 2 0 2
+Type center coordinates and then the radius of the second circle: 2 0 4
+Circle 1 is inside Circle 2.
+Shalvas-MacBook-Air:bin shalva$ java DetermineCircles
+Type center coordinates and then the radius of the first circle: 2 2 2
+Type center coordinates and then the radius of the second circle: 6 0 3
+Circles overlap.
+Shalvas-MacBook-Air:bin shalva$ java DetermineCircles
+Type center coordinates and then the radius of the first circle: 1 0 2
+Type center coordinates and then the radius of the second circle: 5 0 2
+Circles are touching externally.
+Shalvas-MacBook-Air:bin shalva$ 

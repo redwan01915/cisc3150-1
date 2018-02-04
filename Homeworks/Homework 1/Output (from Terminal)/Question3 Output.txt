@@ -1,0 +1,15 @@
+Shalvas-MacBook-Air:bin shalva$ java RandomMonth
+Random number is: 7, Month of July
+Shalvas-MacBook-Air:bin shalva$ java RandomMonth
+Random number is: 1, Month of January
+Shalvas-MacBook-Air:bin shalva$ java RandomMonth
+Random number is: 11, Month of November
+Shalvas-MacBook-Air:bin shalva$ java RandomMonth
+Random number is: 10, Month of October
+Shalvas-MacBook-Air:bin shalva$ 
+
+
+
+
+
+
