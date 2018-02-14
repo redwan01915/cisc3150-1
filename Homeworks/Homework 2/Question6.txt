@@ -1,0 +1,6 @@
+Question 6
+Forcing the Scanner class to tokenize the individual characters. What should you set 
+your delimiter to?
+
+reader.useDelimiter("");
+reader.next()
