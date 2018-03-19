@@ -23,7 +23,7 @@ public class CircleSquare {
 			x = rand.nextDouble()%radius;
 			y = rand.nextDouble()%radius;
 			if (Math.sqrt(x*x+y*y)<radius)
-				count++;
+				loop_cnt++;
 		}
 		System.out.println("Pi is: " +piEst);
 		System.out.println(System.currentTimeMillis()-before);
