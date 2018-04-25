@@ -1,0 +1,7 @@
+Research Questions
+
+1) https://github.com/vavr-io/vavr/issues/2137
+
+2) Java 8 introduces “Default Method” or (Defender methods) new feature, which allows a developer to add new methods to the Interfaces without breaking the existing implementation of these Interface. It provides flexibility to allow Interface define implementation which will use as default in the situation where a concrete Class fails to provide an implementation for that method
+
+https://muhammadkhojaye.blogspot.com/2014/03/interface-default-methods-in-java-8.html

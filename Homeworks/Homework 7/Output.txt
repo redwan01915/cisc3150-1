@@ -1,0 +1,50 @@
+Shalvas-MacBook-Air:src shalva$ javac Calculator.java
+Note: Calculator.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Shalvas-MacBook-Air:src shalva$ java Calculator 2 + 3
+(2+3)
+Finished changing to postfix.
+[+, 3, 2]
+5.0
+Shalvas-MacBook-Air:src shalva$ java Calculator 3 / 6
+(3/6)
+Finished changing to postfix.
+[/, 6, 3]
+0.5
+Shalvas-MacBook-Air:src shalva$ java Calculator 7 % 3
+(7%3)
+Finished changing to postfix.
+[%, 3, 7]
+1.0
+Shalvas-MacBook-Air:src shalva$ java Calculator 7 - 3
+(7-3)
+Finished changing to postfix.
+[-, 3, 7]
+4.0
+Shalvas-MacBook-Air:src shalva$ java Calculator 7 * 3
+(7AlgebraFailException.classAlgebraFailException.javaCalculator.classCalculator.javaQuitMashingOnYourKeyboardException.classQuitMashingOnYourKeyboardException.javaUserIsADumbassException.classUserIsADumbassException.java3)
+UserIsADumbassException was thrown.
+There is an illegal term in your expression. 
+The illegal term is AlgebraFailException.class
+Shalvas-MacBook-Air:src shalva$ java Calculator 7 / 0
+(7/0)
+Finished changing to postfix.
+[/, 0, 7]
+An Illegal operation was performed.
+There is a division by zero in your expression.
+Fix this error to get a result.
+Shalvas-MacBook-Air:src shalva$ java Calculator 7 & 0
+[1] 29839
+-bash: 0: command not found
+Shalvas-MacBook-Air:src shalva$ (7)
+Finished changing to postfix.
+[7]
+7.0
+
+[1]+  Done                    java Calculator 7
+Shalvas-MacBook-Air:src shalva$ java Calculator 6/ 3
+(6/3)
+UserIsADumbassException was thrown.
+There is an illegal term in your expression. 
+The illegal term is 6/
+Shalvas-MacBook-Air:src shalva$ 
